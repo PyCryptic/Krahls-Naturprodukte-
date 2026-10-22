@@ -1,13 +1,3 @@
-/* ==========================================================================
-   Krahls Naturprodukte – Globale Funktionen (auf jeder Seite geladen)
-   Ersetzt die früheren Dateien script.js, scrip.js, nav.js und logo.js.
-   - Mobiles Menü
-   - Dialoge (<dialog>): Schließen per Button, Hintergrund-Klick und ESC
-   - Logo-Vergrößerung im Footer
-   - Karte erst nach Klick laden (Datenschutz)
-   - Einblenden beim Scrollen
-   - Ausblenden defekter Bilder
-   ========================================================================== */
 (function () {
     'use strict';
 
